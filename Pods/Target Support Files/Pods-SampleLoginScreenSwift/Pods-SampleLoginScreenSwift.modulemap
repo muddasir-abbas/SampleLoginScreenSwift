@@ -1,0 +1,6 @@
+framework module Pods_SampleLoginScreenSwift {
+  umbrella header "Pods-SampleLoginScreenSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

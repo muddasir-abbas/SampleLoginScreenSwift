@@ -1,0 +1,22 @@
+PODS:
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - FlagPhoneNumber
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - FlagPhoneNumber
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: e5f8357095da02fd7214b4f33a29528a120bc09d
+
+COCOAPODS: 1.12.1
